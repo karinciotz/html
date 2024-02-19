@@ -1,0 +1,44 @@
+img {
+	width:250;
+	border:2px solid blue;
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+}
+
+	
+
+body { 
+margin:0;
+font-family: system-ui;
+background-image : url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg")
+
+}
+p {
+	color: green;
+	font-size: 
+	
+}
+
+.hero {
+background-color: #blue;
+
+	
+}
+#specialfont {
+border-bottom: 10px solid-violet;
+border-radius: 50%;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+
+
+letter-spacing {
+	
+font-family:italic;
+}
